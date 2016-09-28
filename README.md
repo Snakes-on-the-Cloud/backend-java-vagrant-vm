@@ -1,2 +1,2 @@
 
- A simple Vagrant Java development environment
+ A Vagrant VM's with Java development environment
